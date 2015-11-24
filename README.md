@@ -1,5 +1,5 @@
 # XYZReader
-An app for testing Android Material Design.  This is a basic feed reader, with space filling data for a demonstration of the UI only.
+An app for implementing Android Material Design philosophies.  This is a basic feed reader, with dummy data for a demonstration of the UI only.  This could be connected to a real backend for providing the latest of your feeds.
 
 ## Code Example
 
